@@ -1,0 +1,79 @@
+commit 50154520061773fdf1893d5d71adcb6c2948e59b
+Merge: 9aacdd5 cde1f02
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:53:59 2020 -0400
+
+    Merge branch 'release-1.0'
+    entrega primer release
+
+commit cde1f020e806722e5b05903a8cc710c4d646192f
+Merge: cf009b5 e019561
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:37:15 2020 -0400
+
+    Merge branch 'caracteristica5' into develop
+    union caracteristica 5 develop
+
+commit e0195612cf9c8ed3e896ae20b476dfb07cd74de8
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:35:46 2020 -0400
+
+    caracteristica 5 - R1
+
+commit cf009b598c8cc4179110edfa57698b77f6ab7f36
+Merge: a92ad5a bcfb18a
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:11:38 2020 -0400
+
+    Merge branch 'caracteristica4' into develop
+
+commit bcfb18ad166978e8d06f883494b415b2b611a7d6
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:10:44 2020 -0400
+
+    caracteristica 4 - R1
+
+commit a92ad5ac15c3fa0f5d571271f1b779c981285b10
+Merge: fef630a ef9cf2c
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:03:55 2020 -0400
+
+    Merge branch 'caracteristica3' into develop
+
+commit ef9cf2cd54de7c71955f3fea8236a88ae6f27c4b
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 16:03:29 2020 -0400
+
+    caracteristica 3 -R1
+
+commit fef630a354a448adef9d6fb153ab5f20e9d9ebd7
+Merge: 75dc3f4 5b7114c
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 15:49:11 2020 -0400
+
+    Merge branch 'caracteristica2' into develop
+
+commit 5b7114c4c33aedaaa2554ab0118f0a97de4e29a3
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 15:48:35 2020 -0400
+
+    caracteristica 2 - R1
+
+commit 75dc3f489579f9b0de210759b658d806ddf3d2ed
+Merge: 9aacdd5 7939336
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 15:26:51 2020 -0400
+
+    Merge branch 'caracteristica1' into develop
+
+commit 7939336604fbc8168cd8297a117a41932f1623ee
+Author: DiegocV <azmaeldcv@gmail.com>
+Date:   Fri May 1 15:23:05 2020 -0400
+
+    caracteristica 1 - R1
+
+commit 9aacdd5ebb9a7718d987399b5343e5a2cac01607
+Author: DIEGO.C.V <39675705+Dhargelion@users.noreply.github.com>
+Date:   Fri May 1 15:15:56 2020 -0400
+
+    Initial commit
